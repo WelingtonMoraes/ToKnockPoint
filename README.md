@@ -12,3 +12,5 @@ Aplicação laravel para registrar horas trabalhadas ou  "bater o ponto".
 > Criar controller model e view para cadastro e login de usúario
 
 > Criar um admin para listagem update e delete de usúarios (crud)
+
+oie
